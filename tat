@@ -1,0 +1,72 @@
+[33mcommit a79ec0b506079749b9b2a076c3f2e8d45f5c8614[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Andres Benjumea <abenjumea@grupoagrovid.com>
+Date:   Mon Oct 10 11:27:21 2022 -0500
+
+    Agregue suscripcion, cambie la cabeedra mastra y puse todo azul
+
+[33mcommit 413ea1d3ede4d56c0852c1c47ce062147a5126c4[m
+Author: Andres Benjumea <abenjumea@grupoagrovid.com>
+Date:   Mon Oct 10 11:16:56 2022 -0500
+
+    Volvi a una tipografia menos controversial
+
+[33mcommit 5ad8ad3579296e7bb4b707603dd3504a5bff6646[m
+Merge: ebf7881 79db624
+Author: Andres Benjumea <abenjumea@grupoagrovid.com>
+Date:   Mon Oct 10 11:14:05 2022 -0500
+
+    Merge branch 'cabecera'
+
+[33mcommit ebf788168c2275208b1387ff680a47e6457105c0[m
+Author: Andres Benjumea <abenjumea@grupoagrovid.com>
+Date:   Mon Oct 10 11:07:43 2022 -0500
+
+    Agregado el contenido adicional del blog y una mejor tipografia
+
+[33mcommit 79db624cec0c4023ece82d4e2af8f20b46bd1bcf[m
+Author: Andres Benjumea <abenjumea@grupoagrovid.com>
+Date:   Mon Oct 10 11:04:38 2022 -0500
+
+    Finalizada la cabecera con diseño azul
+
+[33mcommit 21f3f2c044fda010a02b759767d6588eb9a7c687[m
+Author: Andres Benjumea <abenjumea@grupoagrovid.com>
+Date:   Mon Oct 10 10:47:49 2022 -0500
+
+    Commit al master del blogpost en su version mas reciente
+
+[33mcommit ae131ca7721ba42247f72a84c78c275afa054a62[m
+Author: Andres Benjumea <abenjumea@grupoagrovid.com>
+Date:   Mon Oct 10 09:44:53 2022 -0500
+
+    Reemplazo de una version por otra de la historia
+
+[33mcommit 2fcfcedc98f6dd9d9b62a292eac5b63a9dc4fff5[m
+Author: Andres Benjumea <abenjumea@grupoagrovid.com>
+Date:   Mon Oct 10 09:40:24 2022 -0500
+
+    Cambio de maestria
+
+[33mcommit 8bb9768a2aa760d9a3d685b0018cdffc40dff6f3[m
+Author: Andres Benjumea <abenjumea@grupoagrovid.com>
+Date:   Mon Oct 10 09:39:58 2022 -0500
+
+    Cambio de vida
+
+[33mcommit 8fec6799a224a34f0936b6456162dc6626efe5cc[m
+Author: Andres Benjumea <abenjumea@grupoagrovid.com>
+Date:   Mon Oct 10 09:38:51 2022 -0500
+
+    Arranco mi proyecto real con html y css
+
+[33mcommit 61980f0617ff651490166ed9a2c6b3a2f023d140[m
+Author: Andres Benjumea <abenjumea@grupoagrovid.com>
+Date:   Mon Oct 10 08:56:49 2022 -0500
+
+    Cambios al archivo de historia para reflejar la edad correcto
+
+[33mcommit 3b136eeae53d963920365539a24657ab6e8fef7b[m
+Author: andres benjumea <abenjumea@grupoagrovid.com>
+Date:   Mon Oct 10 08:49:59 2022 -0500
+
+    Este es el primer commit de este archivo
